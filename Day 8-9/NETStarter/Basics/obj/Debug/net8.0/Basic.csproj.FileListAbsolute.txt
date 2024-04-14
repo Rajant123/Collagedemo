@@ -1,0 +1,14 @@
+c:\Users\DELL\Desktop\Internship\Day 8-9\NETStarter\Basics\bin\Debug\net8.0\Basic.exe
+c:\Users\DELL\Desktop\Internship\Day 8-9\NETStarter\Basics\bin\Debug\net8.0\Basic.deps.json
+c:\Users\DELL\Desktop\Internship\Day 8-9\NETStarter\Basics\bin\Debug\net8.0\Basic.runtimeconfig.json
+c:\Users\DELL\Desktop\Internship\Day 8-9\NETStarter\Basics\bin\Debug\net8.0\Basic.dll
+c:\Users\DELL\Desktop\Internship\Day 8-9\NETStarter\Basics\bin\Debug\net8.0\Basic.pdb
+c:\Users\DELL\Desktop\Internship\Day 8-9\NETStarter\Basics\obj\Debug\net8.0\Basic.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\DELL\Desktop\Internship\Day 8-9\NETStarter\Basics\obj\Debug\net8.0\Basic.AssemblyInfoInputs.cache
+c:\Users\DELL\Desktop\Internship\Day 8-9\NETStarter\Basics\obj\Debug\net8.0\Basic.AssemblyInfo.cs
+c:\Users\DELL\Desktop\Internship\Day 8-9\NETStarter\Basics\obj\Debug\net8.0\Basic.csproj.CoreCompileInputs.cache
+c:\Users\DELL\Desktop\Internship\Day 8-9\NETStarter\Basics\obj\Debug\net8.0\Basic.dll
+c:\Users\DELL\Desktop\Internship\Day 8-9\NETStarter\Basics\obj\Debug\net8.0\refint\Basic.dll
+c:\Users\DELL\Desktop\Internship\Day 8-9\NETStarter\Basics\obj\Debug\net8.0\Basic.pdb
+c:\Users\DELL\Desktop\Internship\Day 8-9\NETStarter\Basics\obj\Debug\net8.0\Basic.genruntimeconfig.cache
+c:\Users\DELL\Desktop\Internship\Day 8-9\NETStarter\Basics\obj\Debug\net8.0\ref\Basic.dll
